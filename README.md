@@ -1,4 +1,5 @@
 Stock Price Prediction Using LSTM
+
 This project demonstrates the use of an LSTM (Long Short-Term Memory) neural network for stock price prediction. The model uses historical stock data along with several technical indicators to predict future stock prices. This project focuses on the backend development of the machine learning model, from data collection and preprocessing to model training and evaluation.
 
 Key Features
